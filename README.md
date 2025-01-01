@@ -1,0 +1,2 @@
+# React Router Dom v6 Route path issue
+This repository demonstrates a common issue encountered when working with React Router Dom v6 routes, specifically when dealing with the root path ('/') or using exact matching. The problem arises when the application fails to render anything when navigating to the root path or when a route doesn't match the exact path.
